@@ -23,11 +23,13 @@ Publication
 
 ## Journal
 1. R. Iijima, S. Minami, Y. Zhou, T. Takehisa, T. Takahashi, Y. Oikawa, and T. Mori, “Audio Hotspot Attack: An Attack on Voice Assistance Systems Using Directional Sound Beams and its Feasibility,” IEEE Transactions on Emerging Topics in Computing PP(99):2004 - 2018 · Volume: 9, Issue: 4, Oct.-Dec. 1 2021 (online access: https://ieeexplore.ieee.org/document/8906174)
+
 ## International Conference
 1. Ryo Iijima, Tatsuya Takehisa, and Tatsuya Mori. 2022. Cyber-Physical Firewall: Monitoring and Controlling the Threats Caused by Malicious Analog Signals. In the proceedings of 19th ACM International Conference on Computing Frontiers (CF’22), May 17–19, 2022, Torino, Italy. https://doi.org/10.1145/3528416.353099
 1. Ryo Iijima, Shota Minami, Yunao Zhou, Tatsuya Takehisa, Takeshi Takahashi, Yasuhiro Oikawa, Tatsuya Mori, "Audio Hotspot Attack: An Attack on Voice Assistance Systems Using Directional Sound Beams" (Poster Presentation), CCS '18 Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security 2222-2224 Oct 2018
 1. Atsuko Natatsuka, Ryo Iijima, Takuya Watanabe, Mitsuaki Akiyama, Tetsuya Sakai, Tatsuya Mori, Poster: A First Look at the Privacy Risks of Voice Assistant Apps, Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2633-2635, Nov 2019
 1. Atsuko Natatsuka, Ryo Iijima, Takuya Watanabe, Mitsuaki Akiyama, Tetsuya Sakai, Tatsuya Mori, "Understanding the Behavior Transparency of Voice Assistant Applications Using the ChatterBox Framework," Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2022), October 2022
+
 ## Domestic Conference
 1. 飯島 涼, 竹久 達也, 大木 哲史, 森 達哉, まばたきによって生じる電圧を用いた認証方式の提案, コンピュータセキュリティシンポジウム2022, 2022年10月
 1. 飯島 涼, 竹久 達也, 森 達哉, アナログ信号によるセキュリティ脅威をアナログ信号による脅威を検知・規制するセキュリティフレームワークの提案と検証, コンピュータセキュリティシンポジウム2021, 2021年10月
@@ -60,16 +62,19 @@ Publication
 1. 音声認識×セキュリティ研究の最新動向 ～ 超音波の分離放射による音声認識機器への 攻撃と対策手法の提案 ～ 飯島　涼 ハードウェアセキュリティフォーラム2018 (HWS2018) 2018年12月13日 【招待講演】
 1. 攻撃デモ発表 飯島 涼 産業サイバーセキュリティセンター (ICS-CoE) 2018年3月19日
 1. 攻撃デモ発表+音声攻撃講演 飯島 涼 東芝デジタルソリューションズ 2018年8月21日
+
 ## Media
 1. 2018年1月 ＡＩスピーカーに特殊な音で指示　勝手に操作可能に NHK おはよう日本，2018年 1月27日
 1. 2018年1月 AIスピーカー乗っ取り　超音波を悪用、早大実験 共同通信他，新聞約26社，ネットメディア多数https://www.sankei.com/life/news/180127/lif1801270036-n1.html
 1. 2019年12月 How to Silently Hack a Smart Speaker, IEEE Spectrum, https://spectrum.ieee.org/tech-talk/consumer-electronics/audiovideo/how-to-silently-hack-a-voice-assistance-system
+
 ## Others
 1. 2018年3月 基幹理工学部長賞　成績優秀賞 　総合成績 (GPA) 次席
 1. 2019年3月 修士総合成績 (GPA) 4.00 (満点)
 1. 2019年3月 情報理工・情報通信専攻賞
 1. 2019年5月 情報危機管理コンテスト　決勝進出
 1. 2019年6月 Alexa スキルアワード　ハッカソン　アイディアソン投票 1位
+
 ## License
 1. 2016年 統計検定2級
 1. 2017年 応用情報技術者
