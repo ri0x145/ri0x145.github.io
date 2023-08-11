@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /aboutjp/
 title: "日本語サンプル"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /aboutjp/
   - /aboutjp.html
 ---
 
