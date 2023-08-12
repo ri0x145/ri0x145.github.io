@@ -5,6 +5,8 @@ main:
 #
 #  - title: "Talks"
 #    url: /talks/    
+  - title: "Japanese"
+    url: /aboutjp/    
 
   - title: "Teaching"
     url: /teaching/    
