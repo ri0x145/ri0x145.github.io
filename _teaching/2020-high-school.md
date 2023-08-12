@@ -6,6 +6,7 @@ permalink: /teaching/2020-high-school
 venue: "Waseda University Honjo Senior High School"
 date: 2020-04-01
 location: "Saitama, Japan"
+youtubeId: "uwrVIXj57Rus" 
 ---
 
 # 概要
@@ -47,13 +48,15 @@ location: "Saitama, Japan"
 ## 第1回　イントロダクション
 スライド:  python-1-introduction
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=uwrVIXj57Rus %}
 
 
 第2回 演算　モジュール　リスト
 スライド: python-2-calc
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=pgLtJKmNNas %}
+
+{% include youtubePlayer.html id=DCrfAascsWU %}
 
 
 
@@ -61,7 +64,10 @@ location: "Saitama, Japan"
 第3回　条件分岐　if else elif
 スライド: python-3-if
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=9hX7PsQSPPA %}
+
+{% include youtubePlayer.html id=yTWfIjza-Os %}
+{% include youtubePlayer.html id=SfFKZeKkgtQ %}
 
 
 
@@ -70,10 +76,12 @@ location: "Saitama, Japan"
 第4回 繰り返し文
 スライド: python-4-forwhile
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=dSc8-tB8lBg %}
 
 
+{% include youtubePlayer.html id=IkMFx2cRq9E %}
 
+{% include youtubePlayer.html id=W7ZZlvuQkSA %}
 
 
 
@@ -83,7 +91,7 @@ location: "Saitama, Japan"
 スライド: python-5-list
 
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=-JqeZSE7RNI %}
 
 
 
