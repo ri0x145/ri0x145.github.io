@@ -46,13 +46,13 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第1回　イントロダクション
-スライド:  python-1-introduction
+スライド:  [python-1-introduction](https://ri0x145.github.io/python-1-introduction.pdf)
 
 {% include youtubePlayer.html id=uwrVIXj57Rus %}
 
 
-第2回 演算　モジュール　リスト
-スライド: python-2-calc
+## 第2回 演算　モジュール　リスト
+スライド: [python-2-calc](https://ri0x145.github.io/python-2-calc.pdf)
 
 {% include youtubePlayer.html id=pgLtJKmNNas %}
 
@@ -61,20 +61,21 @@ youtubeId: "uwrVIXj57Rus"
 
 
 
-第3回　条件分岐　if else elif
-スライド: python-3-if
+## 第3回　条件分岐　if else elif
+スライド: [python-3-if](https://ri0x145.github.io/python-3-if.pdf)
 
 {% include youtubePlayer.html id=9hX7PsQSPPA %}
 
 {% include youtubePlayer.html id=yTWfIjza-Os %}
+
 {% include youtubePlayer.html id=SfFKZeKkgtQ %}
 
 
 
 
 
-第4回 繰り返し文
-スライド: python-4-forwhile
+## 第4回 繰り返し文
+スライド: [python-4-forwhile](https://ri0x145.github.io/python-4-forwhile.pdf)
 
 {% include youtubePlayer.html id=dSc8-tB8lBg %}
 
@@ -87,8 +88,8 @@ youtubeId: "uwrVIXj57Rus"
 
 
 
-第5回 リストの活用
-スライド: python-5-list
+## 第5回 リストの活用
+スライド: [python-5-list](https://ri0x145.github.io/python-5-list.pdf)
 
 
 {% include youtubePlayer.html id=-JqeZSE7RNI %}
@@ -97,49 +98,51 @@ youtubeId: "uwrVIXj57Rus"
 
 
 
-第6回　関数
-スライド: python-6-function
+## 第6回　関数
+スライド: [python-6-function](https://ri0x145.github.io/python-6-function.pdf)
 
 
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+{% include youtubePlayer.html id=WbwIJ0hJsTE %}
+
+{% include youtubePlayer.html id=s-7yPSqgDIs %}
 
 
 
-第7回　再帰
-スライド: python-7-recursion
+## 第7回　再帰
+スライド: [python-7-recursion](https://ri0x145.github.io/python-7-recursion.pdf)
 
-第8回　スタック・キュー
-スライド: python-8-stack-queue
+## 第8回　スタック・キュー
+スライド: [python-8-stack-queue](https://ri0x145.github.io/python-8-stack-queue.pdf)
 
-第9回　関数のスコープ　逆ポーランド記法
-スライド: python-9-scope-reverse-polish-notation
+## 第9回　関数のスコープ　逆ポーランド記法
+スライド: [python-9-scope-reverse-polish-notation](https://ri0x145.github.io/python-9-score-reverse-polish-notation.pdf)
 
-第10-12回 物理シミュレーション（オイラー法）
-スライド: python-10-physics
+## 第10-12回 物理シミュレーション（オイラー法）
+スライド: [python-10-physics](https://ri0x145.github.io/python-10-physics.pdf)
 
-スライド: python-11-physics2
+スライド: [python-11-physics2](https://ri0x145.github.io/python-11-physics2.pdf)
 
-スライド: python-12-physics3-robotics-fixed
-
-
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
-
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
-
-{% include youtubePlayer.html id=uwrVIXj57Rs %}
+スライド: [python-12-physics3-robotics-fixed](https://ri0x145.github.io/python-12-physics3-robotics-fixed.pdf)
 
 
-第13-14回 数学 (ベクトル・行列・集合・順列・組み合わせ)
-スライド: python-13-vector-matrix-fixed
+{% include youtubePlayer.html id=LbWVrIWCo-E %}
 
-スライド: python-14-set-permutation-conbination
+{% include youtubePlayer.html id=EkFNuCRKzIk %}
 
-参考資料
-渡辺有隆[著], Ozy・秋葉拓哉[協力], プログラミングコンテスト攻略のためのアルゴリズムとデータ構造, マイナビ, 2015
-Bill Lubanovic[著], 斉藤康毅[監訳], 長尾高広[訳], 入門 Python3, O’REILLY Japan, 2015
- John V. Guttag[著]，久保 幹雄 [翻訳]，世界標準MIT教科書 Python言語によるプログラミングイントロダクション第2版: データサイエンスとアプリケーション 近代科学社; end edition，2017
-大重美幸[著], 詳細! Python3　入門ノート, ソーテック社, 2017
-ロベール[著], ロベールのC++入門講座, マイナビ, 2007
-Anany Levitin, Maria Levitin[著], Algorithmic Problem Solving with Puzzles and Games, O’REILLY, 2014
-北村 愛実, Unityの教科書 Unity2019完全対応版 2D&3Dスマートフォンゲーム入門講座, SBクリエイティブ, 2019
-その他参考資料　https://ryoiijima.hatenablog.com/entry/2020/12/19/170214
+{% include youtubePlayer.html id=SiwXJRUIX0o %}
+
+
+## 第13-14回 数学 (ベクトル・行列・集合・順列・組み合わせ)
+スライド: [python-13-vector-matrix-fixed](https://ri0x145.github.io/python-13-vector-matrix-fixed.pdf)
+
+スライド: [python-14-set-permutation-conbination](https://ri0x145.github.io/python-14-set-permutation-conbination.pdf)
+
+# 参考資料
+- 渡辺有隆[著], Ozy・秋葉拓哉[協力], プログラミングコンテスト攻略のためのアルゴリズムとデータ構造, マイナビ, 2015
+- Bill Lubanovic[著], 斉藤康毅[監訳], 長尾高広[訳], 入門 Python3, O’REILLY Japan, 2015
+- John V. Guttag[著]，久保 幹雄 [翻訳]，世界標準MIT教科書 Python言語によるプログラミングイントロダクション第2版: データサイエンスとアプリケーション 近代科学社; end edition，2017
+- 大重美幸[著], 詳細! Python3　入門ノート, ソーテック社, 2017
+- ロベール[著], ロベールのC++入門講座, マイナビ, 2007
+- Anany Levitin, Maria Levitin[著], Algorithmic Problem Solving with Puzzles and Games, O’REILLY, 2014
+- 北村 愛実, Unityの教科書 Unity2019完全対応版 2D&3Dスマートフォンゲーム入門講座, SBクリエイティブ, 2019
+- その他参考資料　https://ryoiijima.hatenablog.com/entry/2020/12/19/170214
