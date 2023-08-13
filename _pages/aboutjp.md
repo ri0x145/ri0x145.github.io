@@ -1,13 +1,13 @@
 ---
 permalink: /aboutjp/
-title: "日本語サンプル"
+title: "Ryo Iijima"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /aboutjp.html
 ---
 
-I am a researcher at the National Institute of Advanced Industrial Science and Technology (AIST) and Waseda University.
+現在，国立研究開発法人　産業技術総合研究所 ( Advanced Industrial Science and Technology, AIST) および 早稲田大学 (Waseda University) の研究員をしています.
 
 経歴
 =====
