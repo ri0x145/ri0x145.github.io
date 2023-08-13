@@ -46,13 +46,13 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第1回　イントロダクション
-スライド:  [python-1-introduction](https://ri0x145.github.io/python-1-introduction.pdf)
+スライド:  [python-1-introduction](https://ri0x145.github.io/files/python-1-introduction.pdf)
 
 {% include youtubePlayer.html id=uwrVIXj57Rus %}
 
 
 ## 第2回 演算　モジュール　リスト
-スライド: [python-2-calc](https://ri0x145.github.io/python-2-calc.pdf)
+スライド: [python-2-calc](https://ri0x145.github.io/files/python-2-calc.pdf)
 
 {% include youtubePlayer.html id=pgLtJKmNNas %}
 
@@ -62,7 +62,7 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第3回　条件分岐　if else elif
-スライド: [python-3-if](https://ri0x145.github.io/python-3-if.pdf)
+スライド: [python-3-if](https://ri0x145.github.io/files/python-3-if.pdf)
 
 {% include youtubePlayer.html id=9hX7PsQSPPA %}
 
@@ -75,7 +75,7 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第4回 繰り返し文
-スライド: [python-4-forwhile](https://ri0x145.github.io/python-4-forwhile.pdf)
+スライド: [python-4-forwhile](https://ri0x145.github.io/files/python-4-forwhile.pdf)
 
 {% include youtubePlayer.html id=dSc8-tB8lBg %}
 
@@ -89,7 +89,7 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第5回 リストの活用
-スライド: [python-5-list](https://ri0x145.github.io/python-5-list.pdf)
+スライド: [python-5-list](https://ri0x145.github.io/files/python-5-list.pdf)
 
 
 {% include youtubePlayer.html id=-JqeZSE7RNI %}
@@ -99,7 +99,7 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第6回　関数
-スライド: [python-6-function](https://ri0x145.github.io/python-6-function.pdf)
+スライド: [python-6-function](https://ri0x145.github.io/files/python-6-function.pdf)
 
 
 {% include youtubePlayer.html id=WbwIJ0hJsTE %}
@@ -109,20 +109,20 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第7回　再帰
-スライド: [python-7-recursion](https://ri0x145.github.io/python-7-recursion.pdf)
+スライド: [python-7-recursion](https://ri0x145.github.io/files/python-7-recursion.pdf)
 
 ## 第8回　スタック・キュー
-スライド: [python-8-stack-queue](https://ri0x145.github.io/python-8-stack-queue.pdf)
+スライド: [python-8-stack-queue](https://ri0x145.github.io/files/python-8-stack-queue.pdf)
 
 ## 第9回　関数のスコープ　逆ポーランド記法
-スライド: [python-9-scope-reverse-polish-notation](https://ri0x145.github.io/python-9-score-reverse-polish-notation.pdf)
+スライド: [python-9-scope-reverse-polish-notation](https://ri0x145.github.io/files/python-9-score-reverse-polish-notation.pdf)
 
 ## 第10-12回 物理シミュレーション（オイラー法）
-スライド: [python-10-physics](https://ri0x145.github.io/python-10-physics.pdf)
+スライド: [python-10-physics](https://ri0x145.github.io/files/python-10-physics.pdf)
 
-スライド: [python-11-physics2](https://ri0x145.github.io/python-11-physics2.pdf)
+スライド: [python-11-physics2](https://ri0x145.github.io/files/python-11-physics2.pdf)
 
-スライド: [python-12-physics3-robotics-fixed](https://ri0x145.github.io/python-12-physics3-robotics-fixed.pdf)
+スライド: [python-12-physics3-robotics-fixed](https://ri0x145.github.io/files/python-12-physics3-robotics-fixed.pdf)
 
 
 {% include youtubePlayer.html id=LbWVrIWCo-E %}
@@ -133,9 +133,9 @@ youtubeId: "uwrVIXj57Rus"
 
 
 ## 第13-14回 数学 (ベクトル・行列・集合・順列・組み合わせ)
-スライド: [python-13-vector-matrix-fixed](https://ri0x145.github.io/python-13-vector-matrix-fixed.pdf)
+スライド: [python-13-vector-matrix-fixed](https://ri0x145.github.io/files/python-13-vector-matrix-fixed.pdf)
 
-スライド: [python-14-set-permutation-conbination](https://ri0x145.github.io/python-14-set-permutation-conbination.pdf)
+スライド: [python-14-set-permutation-conbination](https://ri0x145.github.io/files/python-14-set-permutation-conbination.pdf)
 
 # 参考資料
 - 渡辺有隆[著], Ozy・秋葉拓哉[協力], プログラミングコンテスト攻略のためのアルゴリズムとデータ構造, マイナビ, 2015
