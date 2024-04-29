@@ -10,3 +10,5 @@ youtubeId: "javco0_W1-E"
 - [PDF](https://ri0x145.github.io/files/EOG-paper.pdf)
 
 {% include youtubePlayer.html id= page.youtubeId %}
+
+![EOGによる認証フローと画面例](http://ri0x145.github.io/blog/images/EOG-workflow.png)
