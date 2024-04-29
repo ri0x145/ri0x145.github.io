@@ -23,8 +23,10 @@ Publication
 
 ## Journal
 1. R. Iijima, S. Minami, Y. Zhou, T. Takehisa, T. Takahashi, Y. Oikawa, and T. Mori, “Audio Hotspot Attack: An Attack on Voice Assistance Systems Using Directional Sound Beams and its Feasibility,” IEEE Transactions on Emerging Topics in Computing PP(99):2004 - 2018 · Volume: 9, Issue: 4, Oct.-Dec. 1 2021 (online access: https://ieeexplore.ieee.org/document/8906174)
+1. Ichiro Asomura, Ryo Iijima, Tatsuya Mori, “Automating the Detection of Fraudulent Activities in Online Banking Service,” Journal of Information Processing, Volume 31, Pages 643-653, September 2023 [PDF]
 
 ## International Conference
+1. Ryo Iijima, Tetsuya Takehisa, Tetsushi Ohki, and Tatsuya Mori, “The Catcher in the Eye: Recognizing Users by their Blinks“, Proceedings of the 19th ACM ASIA Conference on Information, Computer and Communications Security (ASIACCS 2024), pp. xxxx–xxxx, June 2024 (acceptance rate: 65/301=21.6%)
 1. Ryo Iijima, Tatsuya Takehisa, and Tatsuya Mori. 2022. Cyber-Physical Firewall: Monitoring and Controlling the Threats Caused by Malicious Analog Signals. In the proceedings of 19th ACM International Conference on Computing Frontiers (CF’22), May 17–19, 2022, Torino, Italy. https://doi.org/10.1145/3528416.353099
 1. Ryo Iijima, Shota Minami, Yunao Zhou, Tatsuya Takehisa, Takeshi Takahashi, Yasuhiro Oikawa, Tatsuya Mori, "Audio Hotspot Attack: An Attack on Voice Assistance Systems Using Directional Sound Beams" (Poster Presentation), CCS '18 Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security 2222-2224 Oct 2018
 1. Atsuko Natatsuka, Ryo Iijima, Takuya Watanabe, Mitsuaki Akiyama, Tetsuya Sakai, Tatsuya Mori, Poster: A First Look at the Privacy Risks of Voice Assistant Apps, Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2633-2635, Nov 2019
