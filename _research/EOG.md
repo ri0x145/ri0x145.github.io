@@ -8,4 +8,4 @@ collection: portfolio
 
 - [PDF](EOG-paper.pdf)
 
-{% include youtubePlayer.html id=page.javco0_W1-E %}
+{% include youtubePlayer.html id="javco0_W1-E" %}
