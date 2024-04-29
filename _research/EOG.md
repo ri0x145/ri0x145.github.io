@@ -11,4 +11,4 @@ youtubeId: "javco0_W1-E"
 
 {% include youtubePlayer.html id= page.youtubeId %}
 
-![EOGによる認証フローと画面例](http://ri0x145.github.io/blog/images/EOG-workflow.png)
+![EOGによる認証フローと画面例](http://ri0x145.github.io/images/EOG-workflow.png)
