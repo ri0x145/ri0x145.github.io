@@ -2,6 +2,7 @@
 title: "Audio Security"
 excerpt: "パラメトリックスピーカを利用したAIスピーカへの攻撃<br/><img src='/images/ai-speaker.png'>"
 collection: portfolio
+date: 2021-10-01
 youtubeId: "fWXXNo5jOcU" 
 ---
 

@@ -2,6 +2,7 @@
 title: "Cyber Physical Firewall: Spoofing Attackから守るアナログ信号向けファイアウォールのデザイン"
 excerpt: "アナログ信号を対象としたアクセス制御機構 Cyber-Physical Firewall (CPFW) のソフトウェア・ハードウェア実装<br/><img src='/images/cpfw-overview.png'>"
 collection: portfolio
+date: 2026-01-20
 ---
 
 超音波やレーザなどのアナログ信号を使ってセンサに偽の入力を与える Spoofing Attack から，サイバーフィジカルシステム (CPS) を守るためのアクセス制御フレームワーク Cyber-Physical Firewall (CPFW) を設計・実装しました．従来の対策はセンサへの入力側 (Ingress) で攻撃を検知するものが中心でしたが，CPFW は攻撃の発信源となりうるデバイスの出力側 (Egress) でも信号を監視・規制する点が特徴です．アナログ信号として出力される前のディジタル信号をポリシーに基づいて制御するため，物理空間のノイズや受信回路の非線形性の影響を受けにくく，攻撃を根本から抑止できます．

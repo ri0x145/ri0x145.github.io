@@ -2,6 +2,7 @@
 title: "眼電位によるセキュアなウェアラブルデバイス向け認証方式の開発"
 excerpt: "眼電位を用いたウェアラブルデバイス向けの認証方式を開発<br/><img src='/images/eog-workflow.png'>"
 collection: portfolio
+date: 2024-07-01
 youtubeId: "javco0_W1-E" 
 ---
 
